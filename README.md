@@ -1,2 +1,3 @@
-# fast-travel-planner-rahv
-A travel planning application for modern development workflows
+# Fast Travel Planner Rahv
+
+A travel planning application for modern development workflows.
